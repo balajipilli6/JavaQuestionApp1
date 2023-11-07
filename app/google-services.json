@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466397759679",
+    "project_id": "java-questionstest-app",
+    "storage_bucket": "java-questionstest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466397759679:android:f25766f691ae43dfbfde0a",
+        "android_client_info": {
+          "package_name": "com.example.javaquestionstestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFt3kg1I2IQLb50SjDSXY4lxbVBFIGsyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
